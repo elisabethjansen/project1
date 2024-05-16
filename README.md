@@ -58,7 +58,7 @@ Owner costs remained consistend over 2019 to 2022 with households spending, on a
 
 Rent to income ratio by age group held consisted when looking at age ranges from under 25 to over 75 years of age, with each group showing a ratio of about .12. Similarly the ownership cost to income ratio by age group showed little to no variation. 
 
-### Homeownership and affordability over time? 
+### Homeownership and affordability over time
 This exploration aimed to investigate the question: what is the realtionship between median household income, median gross rent, median monthly owner costs, and race demographics? 
 
 Analyses into each part of the above question showed: 
